@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.luv2code.springdemo.entity.Customer;;
 
-public interface CustomerDao {
+public interface CustomerDAO {
 
 	public List<Customer> getCustomers();
 }
